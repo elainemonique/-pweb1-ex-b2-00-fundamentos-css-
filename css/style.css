@@ -33,14 +33,19 @@ body {
 
 h1 {
   /* TODO: text-align: center */
+  text-align: center;
 }
 
 .cargo {
   /* TODO: font-weight: bold OU font-style: italic */
+  font-weight: bold;
 }
 
 .cartao {
   /* TODO: padding, border e margin */
+  padding: 2rem;
+  border: 1em;
+  margin: 2rem;
 }
 
 .btn {
