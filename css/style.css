@@ -23,12 +23,12 @@
 
 body {
   /* TODO: background-color */
-  background-color: rgb(166, 91, 236);
+  background-color: rgb(194, 143, 241);
 }
 
 #topo {
   /* TODO: background-color */
-  background-color: goldenrod ;
+  background-color: rgb(247, 232, 35) ;
 }
 
 h1 {
@@ -50,5 +50,5 @@ h1 {
 
 .btn {
   /* TODO: background-color */
-  background-color: hotpink;
+  background-color: rgb(255, 53, 2);
 }
