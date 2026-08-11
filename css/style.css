@@ -23,11 +23,12 @@
 
 body {
   /* TODO: background-color */
-  background-color: black;
+  background-color: rgb(166, 91, 236);
 }
 
 #topo {
   /* TODO: background-color */
+  background-color: goldenrod ;
 }
 
 h1 {
